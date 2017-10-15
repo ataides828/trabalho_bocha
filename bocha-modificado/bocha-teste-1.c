@@ -103,7 +103,7 @@ void sementeRand() {
     srand((unsigned)time(NULL));
 }
 
-//  Sorteia o balin
+//  Sorteia o bolim
 int sorteio(){
     int x, y;
     x = rand() % 10;
